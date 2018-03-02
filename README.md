@@ -19,6 +19,8 @@ This example uses private methods available in `@angular/animations/browser` to 
     ]
 ```
 
+This error also happens when injecting `NoopAnimationsModule` or `BrowserAnimationsModule` into `app.module.ts`.
+
 
 This project uses `angular-rollup`. To build this project:
 
