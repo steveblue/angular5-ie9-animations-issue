@@ -18,3 +18,11 @@ This example uses private methods available in `@angular/animations/browser` to 
      }}
     ]
 ```
+
+
+This project uses `angular-rollup`. To build this project:
+
+`npm i -g angular-rollup@latest rimraf`
+`yarn install`
+`ngr build dev --watch --serve`
+View `http://localhost:4200` in IE9
