@@ -48,8 +48,6 @@
       'rxjs/operator/concatAll': 'lib:rxjs/operator/concatAll',
       'rxjs/operator/mergeMap': 'lib:rxjs/operator/mergeMap',
       'rxjs/util/EmptyError': 'lib:rxjs/util/EmptyError',
-      'ngx-no-animation-for-dinosaur': 'lib:ngx-no-animation-for-dinosaur/dist/bundles/ngxNoAnimationForDinosaur.umd.js',
-      'ngx-window-token': 'lib:ngx-window-token/dist/bundles/ngxWindowToken.umd.js',
       'tslib': 'lib:tslib/tslib.js'
     },
     // packages tells the System loader how to load when no filename and/or no extension

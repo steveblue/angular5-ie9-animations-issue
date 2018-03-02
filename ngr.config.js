@@ -14,8 +14,6 @@ module.exports = {
             'tslib/tslib.js',
             'web-animations-js/web-animations.min.js',
             'web-animations-js/web-animations.min.js.map',
-            'ngx-no-animation-for-dinosaur/dist/bundles/ngxNoAnimationForDinosaur.umd.js',
-            'ngx-window-token',
             '@angular',
             'rxjs'
         ],

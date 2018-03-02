@@ -49,8 +49,6 @@
         "http": "^0.0.0",
         "https": "^1.0.0",
         "ie9-oninput-polyfill": "^1.1.1",
-        "ngx-no-animation-for-dinosaur": "^0.1.6",
-        "ngx-window-token": "^0.0.4",
         "reflect-metadata": "~0.1.10",
         "rollup-plugin-cleanup": "^2.0.0",
         "rollup-plugin-commonjs": "^8.3.0",
